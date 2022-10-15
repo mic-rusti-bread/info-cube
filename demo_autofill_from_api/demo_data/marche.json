@@ -1,0 +1,21 @@
+{
+    "regione": "marche",
+    "bandiera": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Marche.svg",
+    "piatti": [{
+        "Olive ascolane": {
+            "descr": "descrizione delle olive ascolane",
+            "url": "https://www.cucchiaio.it/ricetta/ricetta-olive-ripiene-allascolana/",
+            "tipo": "antipasto"
+        },
+        "Vincisgrassi": {
+            "descr": "descrizione dei vincisgrassi",
+            "url": "https://magazine.lorenzovinci.it/recipe/i-vincisgrassi-ricetta-marchigiana-e-differenza-con-le-lasagne/",
+            "tipo": "primo"
+        },
+        "Maritozzi" : {
+            "descr" : "descrizione dei maritozzi marchigiani",
+            "url" : "https://blog.giallozafferano.it/quasimagia/maritozzi-marchigiani/",
+            "tipo" : "Terzo piatto"
+        }
+    }]
+}
